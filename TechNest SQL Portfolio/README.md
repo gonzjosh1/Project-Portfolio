@@ -10,6 +10,8 @@ The part I'm proudest of is the testing. Before running each query, I planted sp
 
 This is also version 2. I rebuilt the project after going back to my first attempt and finding real problems in it, and you can see [what changed](#what-changed-from-version-1) below.
 
+**See the full project:** [Presentation (PDF)](docs/HomeCoded_v2_presentation.pdf)
+
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/joshua-gonzalez-pitt)
 
 ---
@@ -153,6 +155,8 @@ I generated the sample data in a Jupyter Notebook and inserted it straight into 
 ## What changed from version 1
 
 Going back to my first version with fresh eyes, I found problems I hadn't noticed the first time. Fixing them taught me more than the original build did.
+
+Want to see the difference for yourself? Compare the [original version 1 presentation](docs/HomeCoded_v1_presentation.pdf) with the [current version 2 presentation](docs/HomeCoded_v2_presentation.pdf).
 
 | | Version 1 | Version 2 |
 |---|---|---|
